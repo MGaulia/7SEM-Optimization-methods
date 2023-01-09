@@ -51,7 +51,7 @@ oneresult$solution
 
 # 2 
 
-# Uzduotis
+# Task
 # Maximize revenue 
 
 # Constraints, x,y,z means number of products
@@ -91,7 +91,7 @@ tworesult$solution
 
 # 3 
 
-# Uzduotis
+# Task
 # Assign workers to departments
 
 three.in <- c(
